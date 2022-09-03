@@ -1,0 +1,1 @@
+# gui-control-automatico-termico
